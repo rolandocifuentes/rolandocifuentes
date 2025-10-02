@@ -10,29 +10,9 @@ Soy un profesional proactivo, creativo, autodidacta y con excelentes habilidades
 
 Busco constantemente aportar valor en los proyectos donde participo, contribuyendo tanto al desarrollo técnico como al crecimiento del equipo.
 
-## 🎓 Experiencia como Instructor Informático
-
-Por otro lado, también soy **Instructor Universitario** de las carreras de Ingeniería Informática y Tecnologías Aplicadas. He trabajado como docente en las siguientes instituciones:
-
-**- Universidad Tecnológica de Chile Inacap** (Sede Santiago Centro y Sede Curicó | Chile)
-
-**- Instituto Profesional Duoc UC** (Sede Plaza Vespucio | Chile)
-
-**- IACC** (Sede Campus Virtual | Chile)
-
-**- IPLACEX** (Sede Campus Virtual | Chile)
-
-Finalmente, también soy **Relator REUF** aprobado por **SENCE - Chile** para impartir cursos de programación tales como cursos intensivos (bootcamps), cursos de capacitación sobre una tecnología específica y diplomados. Por ejemplo, he sido instructor titular en los siguientes bootcamps:
-
-**- 2024 Curso Intensivo (Bootcamp) de Desarrollador Full Stack Java + Framework Spring** (Proyecto de **Talento Digital** | SENCE Chile)
-
-**- 2025 Curso Intensivo (Bootcamp) de Ingeniería de Datos Python + IA Aprendizaje Automático + AWS** (Proyecto de **Talento Digital** | SENCE Chile)
-
-**- 2025 Curso Intensivo (Bootcamp) de Desarrollador Full Stack Java + Framework Spring** (Proyecto de **Talento Digital** | SENCE Chile)
-
 ### 🧑‍💻 **Lenguajes de Programación**
 
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML](https://shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-f06529?logo=html5&logoColor=white&labelColor=f06529)
 
 ### 🎨 **Desarrollo Frontend**
 
