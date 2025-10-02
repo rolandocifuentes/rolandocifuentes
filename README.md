@@ -36,7 +36,7 @@ Busco constantemente aportar valor en los proyectos donde participo, contribuyen
 
 ## 🌐 Redes Sociales
 
-Me puedes encontrar en **Linkedin** con el usuario /ffelipecuevasc o pinchando en el siguiente vínculo:
+Me puedes encontrar en **Linkedin** con el usuario /rcifuentesc o pinchando en el siguiente vínculo:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ffelipecuevasc) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rcifuentesc) 
 
