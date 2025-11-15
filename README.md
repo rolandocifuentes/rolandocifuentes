@@ -1,14 +1,9 @@
 # 👋 Hola, soy Rolando Cifuentes
 
-Soy un Ingeniero de Ejecución en Informática con experiencia en análisis de datos, modelos predictivos, inteligencia y análisis de negocios, desarrollo de soluciones ETL-ELT, automatización de procesos, creación de dashboards interactivos y desarrollo full stack. 
-
-He trabajado en diversas industrias tales como ISAPRE, Finanzas, AFP, Seguros, Exportaciones Frutícolas, Salud, Banca, Seguridad Informática, Inmobiliarias y Telecomunicaciones.
-
+Soy Ingeniero de Ejecución en Informática especializado en roles tales como Ingeniería, Ciencia y Análisis de Datos, Inteligencia y Análisis de negocios, desarrollador y automatización de procesos ETL y ELT, desarrollador de visualizaciones interactivas y desarrollador Full-Stack. He trabajado en diversas industrias tales como ISAPRE’s, finanzas, AFP’s, seguros, exportaciones frutícolas, salud, banca, seguridad informática, inmobiliarias y telecomunicaciones.
 Me motiva generar insights que aporten a la toma de decisiones estratégicas, así como resolver problemáticas tecnológicas mediante soluciones eficientes y adaptables.
-
-Soy un profesional proactivo, creativo, autodidacta y con excelentes habilidades para el trabajo en equipo y la relación con clientes. Me comprometo con el aprendizaje continuo, participando activamente en postgrados, certificaciones, bootcamps y capacitaciones para mantenerme actualizado con las últimas tendencias del sector.
-
-Busco constantemente aportar valor en los proyectos donde participo, contribuyendo tanto al desarrollo técnico como al crecimiento del equipo.
+Soy un profesional proactivo, creativo, autodidacta, y con excelentes habilidades para el trabajo en equipo y la relación con clientes. Me comprometo con el aprendizaje continuo, participando activamente en postgrados y certificaciones para mantenerme actualizado con las últimas tendencias del sector.
+Busco constantemente aportar valor en los proyectos donde participo, contribuyendo tanto al desarrollo técnico como el crecimiento del equipo.
 
 ### 🧑‍💻 **Lenguajes de Programación**
 
