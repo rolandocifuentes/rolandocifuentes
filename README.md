@@ -7,7 +7,7 @@ Ingeniero de Ejecución en Informática. Soy Data Engineer y Data Scientist con 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-%23009639?style=flat) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%23728E9B?style=flat&logo=ApacheAirflow&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![Power BI](https://img.shields.io/badge/Power%20BI-%23009639?style=flat)
 
-## 🧑‍💻 Lenguajes de Programación
+## 🖥️ Lenguajes de Programación
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-%23009639?style=flat&logoColor=white) 
 
@@ -165,7 +165,8 @@ Ingeniero de Ejecución en Informática. Soy Data Engineer y Data Scientist con 
 
 <br>
 
-## Cualidades Personales
+
+## 💡 Cualidades Personales
 
 ![Comunicación](https://img.shields.io/badge/Comunicación-000000?style=flat) ![Trabajo en Equipo](https://img.shields.io/badge/Trabajo%20en%20Equipo-000000?style=flat) ![Resolución de Problemas](https://img.shields.io/badge/Resolución%20de%20Problemas-000000?style=flat) ![Creatividad](https://img.shields.io/badge/Creatividad-000000?style=flat) ![Adaptabilidad](https://img.shields.io/badge/Adaptabilidad-000000?style=flat) ![Aprendizaje Continuo](https://img.shields.io/badge/Aprendizaje%20Continuo-000000?style=flat)
 
