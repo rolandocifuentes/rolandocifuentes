@@ -100,7 +100,9 @@ Ingeniero de Ejecución en Informática. Soy Data Engineer y Data Scientist con 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) 
 
-![jQuery](https://img.shields.io/badge/jQuery-%23009639?style=flat&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![JSTL](https://img.shields.io/badge/JSTL-%23009639?style=flat&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%23009639?style=flat&logoColor=white) ![JSTL](https://img.shields.io/badge/JSTL-%23009639?style=flat&logoColor=white)
+ 
+ ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
 
 <br>
 
@@ -115,10 +117,8 @@ Ingeniero de Ejecución en Informática. Soy Data Engineer y Data Scientist con 
 ## 🔄 Sistema de Control de Versiones
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white) ![GitFlow](https://img.shields.io/badge/GitFlow-%23009639?style=flat&logoColor=white)
 
-
-![GitFlow](https://img.shields.io/badge/GitFlow-%23009639?style=flat&logoColor=white)
 ![Team Foundation](https://img.shields.io/badge/Team%20Foundation-%23009639?style=flat&logoColor=white)
 ![TortoiseSVN](https://img.shields.io/badge/TortoiseSVN-%23009639?style=flat&logoColor=white)
 
