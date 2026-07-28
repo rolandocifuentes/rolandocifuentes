@@ -7,13 +7,26 @@ Ingeniero de Ejecución en Informática. Soy Data Engineer y Data Scientist con 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-%23009639?style=flat) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%23728E9B?style=flat&logo=ApacheAirflow&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![Power BI](https://img.shields.io/badge/Power%20BI-%23009639?style=flat)
 
+<br>
+
 ## 🖥️ Lenguajes de Programación
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-%23009639?style=flat&logoColor=white) 
 
 <br>
 
-## 📊 Data Engineering - Integración de Datos
+## ☁️ Cloud
+
+![OCI - Certified Foundations Associate](https://img.shields.io/badge/Certified_Foundations_Associate-Oracle_Cloud_Infrastructure?style=flat&label=Oracle%20Cloud%20Infrastructure&labelColor=BE4634&color=FBFBF9)
+
+![Static Badge](https://img.shields.io/badge/Accreditation_Fundamentals-Databricks?style=flat&logo=databricks&label=Databricks&labelColor=white&color=1B3139)
+
+<br>
+
+
+## 📊 Data Engineering - Integración de Datos - Procesamiento Distribuido
+
+![Talento Digital - Especialidad Data Engineer](https://img.shields.io/badge/Especialidad_--_Data_Engineer-Talento_Digital?style=flat&label=Talento%20Digital&labelColor=EE3543&color=E5B6FC)
 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%23728E9B?style=flat&logo=ApacheAirflow&logoColor=#000000)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-%23728E9B?style=flat&logo=apachenifi&logoColor=white&labelColor=%23728E9B&color=%23728E9B) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23728E9B?style=flat&logo=apachekafka&logoColor=white&labelColor=%23231F20&color=%23231F20) 
@@ -25,6 +38,9 @@ Ingeniero de Ejecución en Informática. Soy Data Engineer y Data Scientist con 
 <br>
 
 ## 📈 Data Science - Machine Learning - Data Analytics
+
+![PUC - Diplomado en Big Data y Ciencia de Datos](https://img.shields.io/badge/Diplomado_--_Big_Data_Ciencia_de_Datos-PUC?style=flat&label=Pontificia%20Universidad%20Cat%C3%B3lica&labelColor=white&color=0176DF)
+
 
 ![CRISP-DM](https://img.shields.io/badge/CRISP--DM-%23009639?style=flat)
 
