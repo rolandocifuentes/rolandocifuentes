@@ -17,6 +17,8 @@ Ingeniero de Ejecución en Informática. Soy Data Engineer y Data Scientist con 
 
 ## ☁️ Cloud
 
+![AWS - Certified Cloud Practitioner Foundational](https://img.shields.io/badge/Certified_Cloud_Practitioner_Foundational-AWS?style=flat&label=Amazon%20Web%20Services&labelColor=FFFFFF&color=36414F)
+
 ![OCI - Certified Foundations Associate](https://img.shields.io/badge/Certified_Foundations_Associate-Oracle_Cloud_Infrastructure?style=flat&label=Oracle%20Cloud%20Infrastructure&labelColor=BE4634&color=FBFBF9)
 
 ![Static Badge](https://img.shields.io/badge/Accreditation_Fundamentals-Databricks?style=flat&logo=databricks&label=Databricks&labelColor=white&color=1B3139)
