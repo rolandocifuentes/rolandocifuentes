@@ -9,26 +9,37 @@ Ingeniero de Ejecución en Informática. Soy Data Engineer y Data Scientist con 
 
 <br>
 
+## 🏅 Formación de Postgrado, Certificaciones y Acreditaciones
+
+### Formación de Postgrado
+
+[![PUC - Diplomado en Big Data y Ciencia de Datos](https://img.shields.io/badge/Diplomado_--_Big_Data_Ciencia_de_Datos-PUC?style=flat&label=Pontificia%20Universidad%20Cat%C3%B3lica&labelColor=white&color=0176DF)](https://www.credential.net/29347349-c330-4f31-bbd9-27f1b08679db#acc.0UyQ9w7D)
+
+### Certificaciones profesionales
+
+[![AWS - Certified Cloud Practitioner Foundational](https://img.shields.io/badge/Certified_Cloud_Practitioner_Foundational-AWS?style=flat&label=Amazon%20Web%20Services&labelColor=FFFFFF&color=36414F)](https://www.credly.com/badges/be50106f-2b51-4783-a3b7-9fd8bc03c829/public_url)
+
+[![OCI - Certified Foundations Associate](https://img.shields.io/badge/Certified_Foundations_Associate-Oracle_Cloud_Infrastructure?style=flat&label=Oracle%20Cloud%20Infrastructure&labelColor=BE4634&color=FBFBF9)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=9D6ABD5FFDC4CB08D626BD7ABFFEAC4C9B2317B6A8A37B21584E68774FE6676E)
+
+
+### Acreditaciones y formación certificada
+[![Talento Digital - Especialidad Data Engineer](https://img.shields.io/badge/Especialidad_--_Data_Engineer-Talento_Digital?style=flat&label=Talento%20Digital&labelColor=EE3543&color=E5B6FC)](https://www.acreditta.com/credential/367e36b7-a13b-46c8-acaf-87e8c3a60763)
+[![Static Badge](https://img.shields.io/badge/Accreditation_Fundamentals-Databricks?style=flat&logo=databricks&label=Databricks&labelColor=white&color=1B3139)](https://credentials.databricks.com/e320c7ad-97e0-4e1e-ba1d-bbe47ae3fd89#acc.SJDwskcx)
+
+[![NASA Open Science Essentials](https://img.shields.io/badge/NASA-Open_Science_Essentials-0B3D91?style=flat)](https://www.credly.com/badges/4a38c7b8-7099-41d6-bf43-d992376ffbbe/public_url)
+[![NASA Open Science 101](https://img.shields.io/badge/NASA-Open_Science_101-0B3D91?style=flat)](https://www.credly.com/badges/159cf726-a110-4445-b7a9-f24ae8cbef23/public_url)
+
+[![Google AI Essentials](https://img.shields.io/badge/Google-AI_Essentials-4285F4?style=flat&logo=google&logoColor=white)](https://www.credly.com/badges/c9771780-f54f-466c-9ff7-d9fa4f8b0aae/public_url)
+
+<br>
+
 ## 🖥️ Lenguajes de Programación
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-%23009639?style=flat&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-%23009639?style=flat&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%23009639?style=flat) 
 
 <br>
-
-## ☁️ Cloud
-
-![AWS - Certified Cloud Practitioner Foundational](https://img.shields.io/badge/Certified_Cloud_Practitioner_Foundational-AWS?style=flat&label=Amazon%20Web%20Services&labelColor=FFFFFF&color=36414F)
-
-![OCI - Certified Foundations Associate](https://img.shields.io/badge/Certified_Foundations_Associate-Oracle_Cloud_Infrastructure?style=flat&label=Oracle%20Cloud%20Infrastructure&labelColor=BE4634&color=FBFBF9)
-
-![Static Badge](https://img.shields.io/badge/Accreditation_Fundamentals-Databricks?style=flat&logo=databricks&label=Databricks&labelColor=white&color=1B3139)
-
-<br>
-
 
 ## 📊 Data Engineering - Integración de Datos - Procesamiento Distribuido
-
-![Talento Digital - Especialidad Data Engineer](https://img.shields.io/badge/Especialidad_--_Data_Engineer-Talento_Digital?style=flat&label=Talento%20Digital&labelColor=EE3543&color=E5B6FC)
 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%23728E9B?style=flat&logo=ApacheAirflow&logoColor=#000000)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-%23728E9B?style=flat&logo=apachenifi&logoColor=white&labelColor=%23728E9B&color=%23728E9B) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23728E9B?style=flat&logo=apachekafka&logoColor=white&labelColor=%23231F20&color=%23231F20) 
@@ -40,9 +51,6 @@ Ingeniero de Ejecución en Informática. Soy Data Engineer y Data Scientist con 
 <br>
 
 ## 📈 Data Science - Machine Learning - Data Analytics
-
-![PUC - Diplomado en Big Data y Ciencia de Datos](https://img.shields.io/badge/Diplomado_--_Big_Data_Ciencia_de_Datos-PUC?style=flat&label=Pontificia%20Universidad%20Cat%C3%B3lica&labelColor=white&color=0176DF)
-
 
 ![CRISP-DM](https://img.shields.io/badge/CRISP--DM-%23009639?style=flat)
 
